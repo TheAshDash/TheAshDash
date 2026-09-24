@@ -1,33 +1,49 @@
-<!-- Header banner (animated) -->
+<!-- Header banner -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0077B6,100:00C2FF&height=230&section=header&text=Ashutosh%20Dash&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Embedded%20Systems%20%C2%B7%20PCB%20Design%20%C2%B7%20Industrial%20Automation&descSize=19&descAlignY=60" alt="Ashutosh Dash banner" />
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:070707,35:121212,70:3A1900,100:FF6B00&height=250&section=header&text=ASHUTOSH%20DASH&fontSize=62&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=EMBEDDED%20SYSTEMS%20%7C%20HARDWARE%20%7C%20ROBOTICS%20%7C%20AUTOMATION&descSize=18&descColor=FFB000&descAlignY=61"
+  alt="Ashutosh Dash banner"
+/>
 
 <!-- Typing animation -->
 <a href="https://github.com/TheAshDash">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=760&height=50&lines=Embedded+Systems+%26+PCB+Design;Industrial+Automation+%26+Servo+Motion+Control;STM32+%7C+ESP32+%7C+PLC+%7C+IO-Link;DD+Robocon+2024+National+Champion" alt="Typing animation" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=20&duration=2400&pause=900&color=FF8A00&center=true&vCenter=true&width=850&height=50&lines=BUILDING+EMBEDDED+SYSTEMS;DESIGNING+PCBs+%26+HARDWARE;STM32+%7C+ESP32+%7C+AVR+%7C+PLC;ROBOTICS+%7C+MOTION+CONTROL+%7C+AUTOMATION;SCHEMATIC+%E2%86%92+PCB+%E2%86%92+FIRMWARE+%E2%86%92+MACHINE;BUILD.+DEBUG.+REPEAT."
+    alt="Engineering focus"
+  />
 </a>
 
 <br/>
 
 <a href="https://www.linkedin.com/in/ashutosh11dash"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:ashutoshdash008@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://youtube.com/@YOUR_VOLTFORGE_HANDLE"><img src="https://img.shields.io/badge/VoltForge-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="VoltForge on YouTube" /></a>
+<a href="https://youtube.com/@govoltforge?si=l__UjOmwJcqOiDIu"><img src="https://img.shields.io/badge/VoltForge-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="VoltForge on YouTube" /></a>
 <img src="https://komarev.com/ghpvc/?username=TheAshDash&label=Profile+views&color=00C2FF&style=for-the-badge" alt="Profile views" />
 
 </div>
 
 ---
-
 ## `> whoami`
 
 ```yaml
-name:       Ashutosh Dash
-status:     Final-year B.Tech, Electronics & Instrumentation (Robotics minor)
-university: Institute of Technology, Nirma University
-location:   Ahmedabad, India
-focus:      [ PCB design, embedded firmware, PLC & servo motion control ]
-loves:      [ shipping hardware that actually works, Robocon, debugging at 2 AM ]
+╭──────────────────────────────────────────────────────────────╮
+│  ASHUTOSH DASH // EMBEDDED & ROBOTICS ENGINEER               │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  STATUS       : FINAL-YEAR UNDERGRAD                         │
+│  DEGREE       : B.Tech — Electronics & Instrumentation       │
+│  UNIVERSITY   : Nirma University                             │
+│  LOCATION     : Ahmedabad, India                             │
+│                                                              │
+│  CORE         : PCB DESIGN · EMBEDDED FIRMWARE               │
+│                 PLC · MOTION CONTROL · ROBOTICS              │
+│                                                              │
+│  SYSTEM       : ONLINE                                       │
+│  BUILD STATUS : ████████████████████░░  92%                  │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
 ```
 
 I design boards, write firmware, and program the machines that move. From 4-layer controlled-impedance PCBs and STM32/ESP32 firmware to Mitsubishi PLC + SSCNET servo systems, I like taking an idea all the way from schematic to something that runs on a bench (or a competition field).
