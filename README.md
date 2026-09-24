@@ -26,29 +26,23 @@
 
 ---
 ## `> whoami`
+<div align="center">
 
-```yaml
-╭──────────────────────────────────────────────────────────────╮
-│  ASHUTOSH DASH // EMBEDDED & ROBOTICS ENGINEER               │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  STATUS       : FINAL-YEAR UNDERGRAD                         │
-│  DEGREE       : B.Tech — Electronics & Instrumentation       │
-│  UNIVERSITY   : Nirma University                             │
-│  LOCATION     : Ahmedabad, India                             │
-│                                                              │
-│  CORE         : PCB DESIGN · EMBEDDED FIRMWARE               │
-│                 PLC · MOTION CONTROL · ROBOTICS              │
-│                                                              │
-│  SYSTEM       : ONLINE                                       │
-│  BUILD STATUS : ████████████████████░░  92%                  │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
-```
+<a href="https://github.com/TheAshDash">
 
-I design boards, write firmware, and program the machines that move. From 4-layer controlled-impedance PCBs and STM32/ESP32 firmware to Mitsubishi PLC + SSCNET servo systems, I like taking an idea all the way from schematic to something that runs on a bench (or a competition field).
+<img
+  src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=TheAshDash&theme=gruvbox&headerStyle=mac&hostname=Mr.Dash"
+  width="850"
+  alt="Ashutosh Dash GitHub Terminal"
+/>
 
-I also run **VoltForge**, where I share electronics, PCB, embedded and robotics builds on YouTube and LinkedIn.
+</a>
+
+</div>
+
+I build the electronics and software that bring machines to life — designing custom circuit boards, writing embedded software, and developing the control systems behind robots and automated machines. I enjoy taking ideas from the first schematic to a working prototype, whether it’s on the workbench or competing on the field.
+
+Through **VoltForge**, I share my electronics, robotics, PCB, and embedded projects while documenting what I build, test, break, and learn along the way.
 
 ---
 
